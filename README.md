@@ -8,4 +8,4 @@ Numbers are detected using neural network written from scratch.
 ![Selecting Puzzle](images/puzzleselection.png)
 
 ### Solved Puzzle
-![Solved Puzzle](images/solved_puzzle.png)
+![Solved Puzzle](images/solution.png)
